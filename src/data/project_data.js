@@ -29,7 +29,7 @@ We created interactive prototypes and iteratively gathered requirements and user
         designUrl: "https://www.figma.com/design/pBlTcItDic1lt4CA2VA81k/Prototyping?t=Jc90sSWYw35fi01r-0",
         thumbnail: "assets/lots-for-tots/lots-for-tots.png",
         moreImages: ['assets/lots-for-tots/login.jpeg', 'assets/lots-for-tots/event-page.jpeg', 'assets/lots-for-tots/forgot-password.jpeg', 'assets/lots-for-tots/settings.jpeg', 'assets/lots-for-tots/sign-up.jpeg', 'assets/lots-for-tots/subscribed.jpeg', 'assets/lots-for-tots/map.png', 'assets/lots-for-tots/prototypes.png'],
-        languages: ["Flutter", "Figma"]
+        languages: ["Flutter", "Firebase", "Figma"]
     },
     {
         title: "Operating Systems and Concurrency",
@@ -46,6 +46,13 @@ To simulate real-world execution, the system includes an I/O daemon to handle bl
         date: "2023",
         description: `Developed the Reversi board game in Java using the MVC design pattern. The game features an AI opponent which greedily chooses the best available move.`,
         languages: ["Java"],
+        thumbnail: "assets/nottingham.svg",
+    },
+    {
+        title: "Fundamentals of Artificial Intelligence",
+        date: "2023",
+        description: `University project to build a neural network to classify whether a patient has heart disease.`,
+        languages: ["Python"],
         thumbnail: "assets/nottingham.svg",
     }
 ]

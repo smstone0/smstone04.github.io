@@ -4,7 +4,7 @@ import './Projects.css';
 import {ReactComponent as LinkIcon} from '../../assets/link.svg';
 import {ReactComponent as ArrowIcon} from '../../assets/arrow-up-right.svg';
 import Modal from '../modal/Modal.js';
-import languageIcons from '../language/languageIcons.js';
+import languageIcons from '../language/iconMapping.js';
 
   function Projects() {
     return (
